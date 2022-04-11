@@ -1,4 +1,4 @@
-# solnftbots-app
+# sol-nft-sniper
 
 to run this part
 - clone repo
